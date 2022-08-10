@@ -295,6 +295,8 @@ if(symbol != ""):
     
     st.caption("Range of this score is of 0-9, where a higher number represents a better stock")
     
+    import os
+    os.environ['DISPLAY'] = ':0'
     import pyautogui
     
     if st.button("Reset"):
