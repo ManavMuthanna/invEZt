@@ -1,5 +1,3 @@
-from app import stock
-
 #calculation of piotroski-F score
 import yfinance as yf
 
