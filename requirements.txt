@@ -1,6 +1,6 @@
-pandas==1.4.2
+pandas==2.0.1
 PyAutoGUI==0.9.53
-streamlit==1.11.1
-yahooquery==2.2.15
+streamlit==1.22.0
+yahooquery==2.3.1
 yfinance==0.2.18
 
